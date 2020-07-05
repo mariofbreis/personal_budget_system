@@ -1,0 +1,17 @@
+i 600 0 0 r Heranca
+i 100 0 10 r Mesada
+i 200 500 10 d Vicio
+m 500
+v
+i 200 700 0 d Vicio
+v
+m 400
+v
+i 100 700 0 d Vicio
+v
+m 300
+v
+i 100 700 0 d Vicio
+v
+m 200
+v

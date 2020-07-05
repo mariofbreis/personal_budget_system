@@ -1,0 +1,15 @@
+i 100 0 0 r Receita
+i 200 1 0 r Receita
+i 300 1 0 r Receita
+i 400 0 0 r Receita
+i 50 999 0 d Despesa
+i 51 999 0 d Despesa
+i 52 999 0 d Despesa
+i 53 999 0 d Despesa
+i 50 500 0 r Receita
+i 50 500 0 d Despesa
+l 0
+l 1
+l 999
+l 500
+l 0
